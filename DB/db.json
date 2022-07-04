@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "nome": "Porque não podemos esperar",
+            "price": 20,
+            "quantity": 100,
+            "category": "História",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51PdaFPtRWL._SX330_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Eu, Robô",
+            "price": 30,
+            "quantity": 200,
+            "category": "Ficção Científica",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/414QJOKvD+L.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Book3",
+            "price": 30,
+            "quantity": 200,
+            "category": "Ficção Científica",
+            "img": null
+        },
+        {
+            "id": 4,
+            "nome": "Book4",
+            "price": 30,
+            "quantity": 200,
+            "category": "Ficção Científica",
+            "img": null
+        },
+        {
+            "id": 5,
+            "nome": "Book5",
+            "price": 30,
+            "quantity": 200,
+            "category": "Ficção Científica",
+            "img": null
+        }
+    ]
+}
